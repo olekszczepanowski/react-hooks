@@ -90,8 +90,7 @@ function Game() {
     setCurrentStep(0)
   }
   //moglbym w sumie zapisac tak jak nizej w przypadku ustawiania current w przycisku,
-  //ale zaczalem tak i moj mozg lepiej mieli taki zapis
-  //moze tak byc???
+  //ale zaczalem tak i moj mozg lepiej mieli taki zapis moze tak byc???
   function setButtonTextValue(index) {
     let textValue = ''
     if (index === 0) {
